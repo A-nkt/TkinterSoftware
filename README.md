@@ -6,4 +6,4 @@ if you use this project. i suggest "pyinstaller". i recommend using pyinstaller 
 
 ## License
 
-please check [it](https://github.com/YuUuTta/TkinterSoftware/blob/master/LICENSE).
+please check [this](https://github.com/YuUuTta/TkinterSoftware/blob/master/LICENSE).
